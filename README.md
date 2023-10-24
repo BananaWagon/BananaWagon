@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LongDongSilver101
+- 👋 Hi, I’m @BananaWagon
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on learning
